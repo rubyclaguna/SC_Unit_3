@@ -10,6 +10,8 @@ flask = "*"
 flask-sqlalchemy = "*"
 requests = "*"
 py-openaq = "*"
+flask-migrate = "*"
+decouple = "*"
 
 [requires]
 python_version = "3.8"
